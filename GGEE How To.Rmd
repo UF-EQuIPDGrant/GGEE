@@ -18,8 +18,9 @@ knitr::opts_chunk$set(echo = TRUE)
 library(knitr)
 ```
 
-![](/Users/kristadulany/Documents/GitHub/GGEE/IMG_0423.PNG)
-![](/Users/kristadulany/Documents/GitHub/GGEE/EQuIPD logo_horizontal.png)
+![](/Users/kristadulany/Documents/GitHub/GGEE/IMG_0423.PNG){width=50%}
+
+![](/Users/kristadulany/Documents/GitHub/GGEE/EQuIPD logo_horizontal.png){ width=50%}
 
 **Designed by:**
 
@@ -265,7 +266,15 @@ Git.io page with the information and files File Drive Links here
 
 ## Appendix A: Student Waiver
 
+![](/Users/kristadulany/Documents/GitHub/GGEE/waiver_consent/Waiver-UF-Affiliated-Youth-Activities_Goldberg Gators_general.pdf){width=100%}
+
+{r, fig.align="center", fig.cap=c(""), echo=FALSE}
+knitr::include_graphics("/Users/kristadulany/Documents/GitHub/GGEE/waiver_consent/Waiver-UF-Affiliated-Youth-Activities_Goldberg Gators_general.pdf")
+
+
 ## Appendix B: Parent Research Consent
+
+![](/Users/kristadulany/Documents/GitHub/GGEE/waiver_consent/Gator Goldberg - Parent Consent.pdf){width=500px}
 
 ## Appendix C: Student Assent Form
 
