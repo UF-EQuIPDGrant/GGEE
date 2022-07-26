@@ -84,8 +84,9 @@ $$
 
 ### No IRB – Assessment
 
-Students understand norms for working together and how to treat and work with a Micro:bit
-Students are successful in programming basics
+Students understand norms for working together and how to treat and work with a Micro:bit.
+
+Students are successful in programming basics:
 
 *	understanding how to create a process map
 *	basic programming of a Micro:bit to make a name badge
@@ -203,7 +204,7 @@ Throughout training and programs, facilitators might get off task. To ensure tha
 
 ## Training Schedule
 
-To create a successful program, program organizers must provide training to facilitators. We recommend introducing the facilitators to the Microsoft Micro:bit two months before the program begins. This ensures they are familiar with the device and are prepared to teach the students. We also recommend a 4-week bootcamp which makes the facilitators go through the program activity guide, such as what the students would be doing during the program. Program organizers should how a meeting once a week (or more, depending on the facilitators) where they go through the program expectations, program activities, logistical information, and more.
+To create a successful program, program organizers must provide training to facilitators. We recommend introducing the facilitators to the Microsoft Micro:bit two months before the program begins. This ensures they are familiar with the device and are prepared to teach the students. We also recommend a 4-week bootcamp which makes the facilitators go through the program activity guide, such as what the students would be doing during the program. Program organizers should hold a meeting once a week (or more, depending on the facilitators) where they go through the program expectations, program activities, logistical information, and more.
 
 **Office Hours**
 
