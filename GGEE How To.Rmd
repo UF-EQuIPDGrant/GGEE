@@ -62,9 +62,11 @@ library(knitr)
 During the summer program, the study focused on assessing student motivation and identity as computer scientists and engineers when completing computer science-related activities throughout the program. This is done through surveys at the start of the program and at the end of each day, in addition to student interviews and observations. We also want to determine students' skills and cognitive processes as they engage with CT and EDT.
 
 A longitudinal study will be conducted to assess the impact of attending the summer program on grades and higher-level course registration. A multiple regression analysis will determine what the significant predictors of grades are.
-*	Do students' demographic data on summer experience and motivation for CT and EDT activities influence/predict their grades in STEM subjects?
-*	Is the summer program experience moderating the effect of the predictors with their grades?
+
+*	*Do students' demographic data on summer experience and motivation for CT and EDT activities influence/predict their grades in STEM subjects?*
+*	*Is the summer program experience moderating the effect of the predictors with their grades?*
 Regression model (test the significance of the slopes):
+
 $$ 
 Grade/enrollment = a + m_1 (URM) + m_2 (gender) + m_3 (ethnicity) + m_4 (program attendance) + m_5 (program motivation)
 $$
