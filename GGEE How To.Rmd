@@ -1,7 +1,7 @@
 ---
 title: "Goldberg Gator Engineering Explorers Summer Program Planning Guide"
 author: "The EQuIPD Grant at The University of Florida"
-date: "2022-07-25"
+date: "`r Sys.Date()`"
 output:
   html_document:
     toc: true
