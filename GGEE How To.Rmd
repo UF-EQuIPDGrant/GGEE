@@ -42,7 +42,7 @@ library(knitr)
 ## Compliance
 
 *	Parents must sign a permission slip or waiver to acknowledge their student's participation in the program. We recommend that this permission form gets sent via email with the research consent form (see [IRB Requirements]) at least a week before the start of the summer program. Parents can sign and submit scanned copies of the form via email. Always have hard copies available on the first day of the program for parents to complete during student drop-off. 
-    + An example waiver for UF youth summer programs can be found in *[Appendix A: Student Waiver]*. 
+    + An example waiver for UF youth summer programs can be found in *[Appendix A: Parent Student Waiver]*. 
 * Photo consent and release are required to be signed by the parents of students
 *	The addition of a behavior contract subsection to the consent form could be helpful
     + Agrees that parents and students should be on their best behavior
@@ -78,7 +78,7 @@ $$
     +	an IRB with your institution and 
     +	with the school district, the summer program is in
 *	Parents must complete a consent form for their students to participate in the study. We recommend that this research consent form gets sent via email with the permission form (see [Compliance]) at least a week before the start of the summer program. Parents can sign and submit scanned copies of the form via email. Always have hard copies available on the first day of the summer program for parents to complete during student drop-off.
-    +	An example consent form can be found in *[Appendix B: Parent Research Consent]*
+    +	An example consent form can be found in *[Appendix B: Informed Consent]*
 *	Students will need to complete a Student Assent form only if their parent's consent to participate in the study and the school district allows student assent forms.
     +	An example assent form can be found in *[Appendix C: Student Assent Form]*
 
@@ -109,10 +109,10 @@ Students can navigate the design process and work with partners to develop a fun
 *	BBC Micro:bit V2 – one for each student
     +	Students keep their Micro:bit
     +	Order 5-6 months in advance, shipping time and availability vary
-    +	https://www.parallax.com/product-category/microbit/mb-modules/ 
+    +	[Purchase Micro:bits](https://www.parallax.com/product-category/microbit/mb-modules/){target="_blank"}
 *	STEM Kit – Keyestudio 37-in-1 kit with the board is suggested
     +	One kit per 2 students is recommended
-    + https://www.amazon.com/KEYESTUDIO-Sensors-Box-Starter-Micro/dp/B07GSVHWNS/ref=sr_1_2?keywords=keyestudio%2B37%2Bin%2B1%2Bmicro%2Bbit&qid=1638303507&sr=8-2&th=1
+    + [Purchase STEM Kits](https://www.amazon.com/KEYESTUDIO-Sensors-Box-Starter-Micro/dp/B07GSVHWNS/ref=sr_1_2?keywords=keyestudio%2B37%2Bin%2B1%2Bmicro%2Bbit&qid=1638303507&sr=8-2&th=1){target="_blank"}
     
 Technology    | Craft Supplies | Activity Supplies
 ------------- | -------------  | -------------
@@ -229,53 +229,73 @@ Facilitators are also responsible for distributing, collecting, and organizing f
 
 ## How-To Videos
 
-For facilitators that are not familiar with Microsoft Micro:bits or for those who are having trouble with activities, we have created short How-To videos that go through each activity in the summer program, its components, and the expected results. Follow the  link to the How-To video playlist to view:
+For facilitators that are not familiar with Microsoft Micro:bits or for those who are having trouble with activities, we have created short How-To videos that go through each activity in the summer program, its components, and the expected results. 
 
-https://youtube.com/playlist?list=PLFMIUy10MD1TAX1d60iok8QuqYkCnuLTL 
+Follow the link to the How-To video playlist to view: [Goldberg Gator Engineering Explorers Summer Program How To Videos](https://youtube.com/playlist?list=PLFMIUy10MD1TAX1d60iok8QuqYkCnuLTL){target="_blank"}
 
 ## Example PowerPoints and Documents 
 
 To guarantee a successful program, we have linked some example PowerPoints, the student activity guide, and the facilitator activity guide below:
 
-Facilitator Training PowerPoint: Goldberg Facilitator Guide Updated
-Student Workbook: Student Workbook
-Facilitator Activity Guide: Activity Guide
-Slides information -- 
+[**Facilitator Training PowerPoint**](https://docs.google.com/presentation/d/1pa4Izo5BSVzyeRW1547sDR_SNkzzopTV/edit?usp=sharing&ouid=101837644018748928886&rtpof=true&sd=true){target="_blank"}
 
-# Summer Program Overviews
-
-There are 3 versions of the summer program already designed. The timelines for the three camps are displayed below to provide an overview. 
-
-## Full Day Programs 8 AM – 3 PM
-
-**4-Day**
-
-**5-Day**
-
-## Half Day Programs 8 AM – 12 PM
-
-**8-Day**
+[**Facilitator Training Slide Guide**](https://drive.google.com/file/d/1hjUun7AijY_ld5hq3sJHjawil5kXs5eU/view?usp=sharing){target="_blank"}
 
 # Facilitator Guides
 
-Find listed below detailed facilitator activity guides for the three versions of the camps: 4-day full day, 5-day full day, 8-day half day. The guides are designed to walk through what the facilitators do during the summer program activities. It also provides possible solutions to the coding activities. The guides are flexible and can be rearranged to accompany lunches and breaks. 
+Find listed below detailed facilitator activity guides for the three versions of the camps: 4-day full day, 5-day full day, 8-day half day. The guides are designed to walk through what the facilitators do during the summer program activities. It also provides possible solutions to the coding activities. The guides are flexible and can be rearranged to accompany lunches and breaks.
 
-Git.io page with the information and files File Drive Links here
+*Please note that the program guides are large documents and may take a moment to load* 
+
+## Full Day Camps - 7 Hours
+
+[**4-Day Program Guide**](https://docs.google.com/document/d/1jYAA5klCv6t5kgX0rWaLUhFAMM7GCiTi/edit?usp=sharing&ouid=101837644018748928886&rtpof=true&sd=true){target="_blank"}
+
+![](/Users/kristadulany/Documents/GitHub/GGEE/overview/4 day.jpg){width=500px}
+
+[**5-Day Program Guide**](https://docs.google.com/document/d/12amkkHujozFgsCKLpXtIb6bFGUgHdUDq/edit?usp=sharing&ouid=101837644018748928886&rtpof=true&sd=true){target="_blank"}
+
+![](/Users/kristadulany/Documents/GitHub/GGEE/overview/5 day.jpg){width=500px}
+
+## Half Day Camps - 4 Hours
+
+[**8-Day Program Guide**](https://docs.google.com/document/d/1xG_1E1HToyae9jNvOGlpWYFquy_16UiW/edit?usp=sharing&ouid=101837644018748928886&rtpof=true&sd=true){target="_blank"}
+
+![](/Users/kristadulany/Documents/GitHub/GGEE/overview/8 day.jpg){width=500px}
+
+## Teacher and Student Activity Frameworks
+Linked below are the teacher and student activity frameworks. The teacher guide contains possibly programming solutions for each activity, while the student versions are blank. There are frameworks for each project set:
+
+**Teacher Frameworks**
+
+[Teacher Activity Frameworks](https://docs.google.com/presentation/d/1cbmMQMF4CnW2sxQbw6LxZI148g5J6rVQ/edit?usp=sharing&ouid=101837644018748928886&rtpof=true&sd=true){target="_blank"}
+
+**Student Frameworks**
+
+[Student Activity Frameworks All Activities](https://docs.google.com/presentation/d/1gS8-U2K-2B4My0n30KcXEaDpcB8BNK8j/edit?usp=sharing&ouid=101837644018748928886&rtpof=true&sd=true){target="_blank"}
+
+[Student Activity Frameworks: Programming Basics](https://docs.google.com/presentation/d/1Xnfftn2Rue4tNdWHirmjRXEd6C52i5LY/edit?usp=sharing&ouid=101837644018748928886&rtpof=true&sd=true){target="_blank"}
+
+[Student Activity Frameworks: Coding Applications](https://docs.google.com/presentation/d/1g5dyGE7lguv5V7yYQjwdMBh5wxIuFS7p/edit?usp=sharing&ouid=101837644018748928886&rtpof=true&sd=true){target="_blank"}
+
+[Student Activity Frameworks: Micro:bit Pet](https://docs.google.com/presentation/d/18KzoX_BgMHFRBj7n1AukolA_C5nu8AkN/edit?usp=sharing&ouid=101837644018748928886&rtpof=true&sd=true){target="_blank"}
+
+[Student Activity Frameworks: Technical Design Challenge](https://docs.google.com/presentation/d/1TTCc2MwwXFT_jMkpBd-hDmQYDhvhP9yD/edit?usp=sharing&ouid=101837644018748928886&rtpof=true&sd=true){target="_blank"}
+
 
 # Appendix
 
-## Appendix A: Student Waiver
+## Appendix A: Parent Student Waiver
 
-![](/Users/kristadulany/Documents/GitHub/GGEE/waiver_consent/Waiver-UF-Affiliated-Youth-Activities_Goldberg Gators_general.pdf){width=100%}
+![](/Users/kristadulany/Documents/GitHub/GGEE/screenshots/Waiver 1.png){width=500px}
+![](/Users/kristadulany/Documents/GitHub/GGEE/screenshots/Waiver 2.png){width=500px}
+![](/Users/kristadulany/Documents/GitHub/GGEE/screenshots/Waiver 3.png){width=500px}
 
-{r, fig.align="center", fig.cap=c(""), echo=FALSE}
-knitr::include_graphics("/Users/kristadulany/Documents/GitHub/GGEE/waiver_consent/Waiver-UF-Affiliated-Youth-Activities_Goldberg Gators_general.pdf")
+## Appendix B: Informed Consent
 
-
-## Appendix B: Parent Research Consent
-
-![](/Users/kristadulany/Documents/GitHub/GGEE/waiver_consent/Gator Goldberg - Parent Consent.pdf){width=500px}
+![](/Users/kristadulany/Documents/GitHub/GGEE/screenshots/Informed Consent 1.png){width=500px}
+![](/Users/kristadulany/Documents/GitHub/GGEE/screenshots/Informed Consent 2.png){width=500px}
 
 ## Appendix C: Student Assent Form
 
-
+![](/Users/kristadulany/Documents/GitHub/GGEE/screenshots/Assent.png){width=500px}
