@@ -12,16 +12,16 @@ library(HH)
 library(ggplot2)
 
 
-end_of_day_surveys <- read_excel("Data/end of day surveys_Likert.xlsx", sheet=1)
+end_of_day_surveys <- read_excel("Data/end of day surveys_likert.xlsx", sheet=2)
 
-graph1<-likert(Item~., end_of_day_surveys, ReferenceZero=3, ylab = "Statement", xlab = "Percentage", main = list("Student End of Day Survey", x=unit(.62, "npc")), auto.key = list(columns = 2, reverse.rows = T))
+graph1<-likert(Item~., end_of_day_surveys, ReferenceZero=3, ylab = "Statement", xlab = "Percentage", main = list("End of Day: Student Sentiments", x=unit(.62, "npc")), auto.key = list(columns = 2, reverse.rows = T))
 
 graph1
 
-png("/Users/kristadulany/Documents/GitHub/GGEE/Data/Graph1.png",
+##png("/Users/kristadulany/Documents/GitHub/GGEE/Data/Graph1.png",
     height=720, width=1080)
-graph1
-dev.off()
+##graph1
+##dev.off()
 
 ###MAKE DATA FRAME BY HAND
 Item <- c("I felt confident when completeing today's camp activites", "I enjoyed completing today's camp activities", "I find today's camp activties difficult")
