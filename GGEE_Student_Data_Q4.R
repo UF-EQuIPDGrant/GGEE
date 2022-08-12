@@ -10,32 +10,32 @@ library(ggplot2)
 library(scales)
 
 
-Q3Sres <- read_excel("Data/Student Interviews_Dulany.xlsx", sheet=3)
-Q3SresSel<- select(Q3Sres, Student_Code, quote)
+Q4Sres <- read_excel("Data/Student Interviews_Dulany.xlsx", sheet=4)
+Q4SresSel<- select(Q4Sres, Student_Code, quote)
 
 remove_words <-data.frame("word"= c("challenge", "challenging", "lot", "um", "it's","it", "uh","uhh", "ive", "that's"))
 
-Q3Srestidy<-unnest_tokens(Q3SresSel, word, quote)
+Q4Srestidy<-unnest_tokens(Q4SresSel, word, quote)
 
-Q3Sres_remove<- anti_join(Q3Srestidy,remove_words) #remove repeat words
+Q4Sres_remove<- anti_join(Q4Srestidy,remove_words) #remove repeat words
 
-Q3Sresclean<-anti_join(Q3Sres_remove, stop_words)
+Q4Sresclean<-anti_join(Q4Sres_remove, stop_words)
 
-Q3Sres_counts <- count(Q3Sresclean, word, sort = TRUE)
+Q4Sres_counts <- count(Q4Sresclean, word, sort = TRUE)
 
 
 library(wordcloud2)
-wordcloud2(Q3Sres_counts)
+wordcloud2(Q4Sres_counts)
 
 afinn <- get_sentiments("afinn")
 bing <- get_sentiments("bing")
 nrc <- get_sentiments("nrc")
 loughran <- get_sentiments("loughran")
 
-sentiment_afinn <- inner_join(Q3Sresclean, afinn, by = "word")
-sentiment_bing <- inner_join(Q3Sresclean, bing, by = "word")
-sentiment_nrc <- inner_join(Q3Sresclean, nrc, by = "word")
-sentiment_loughran <- inner_join(Q3Sresclean, loughran, by = "word")
+sentiment_afinn <- inner_join(Q4Sresclean, afinn, by = "word")
+sentiment_bing <- inner_join(Q4Sresclean, bing, by = "word")
+sentiment_nrc <- inner_join(Q4Sresclean, nrc, by = "word")
+sentiment_loughran <- inner_join(Q4Sresclean, loughran, by = "word")
 
 summary_bing <- count(sentiment_bing, sentiment, sort = TRUE)
 summary_afinn <- count(sentiment_afinn, value, sort = TRUE)
@@ -117,7 +117,7 @@ summary_nrc2 %>%
   geom_bar(width = .8, stat = "identity") +
   facet_wrap(~method, ncol = 1) +
   labs(title = "GGEE: Sentiment of Student Responses", 
-       subtitle = "What have you learned as a result of camp activities?",
+       subtitle = "Why did you decide to try to do this?",
        x = "Number of Words", 
        y = "Sentiment")
 
