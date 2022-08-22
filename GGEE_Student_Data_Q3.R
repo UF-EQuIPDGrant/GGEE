@@ -13,7 +13,7 @@ library(scales)
 Q3Sres <- read_excel("Data/Student Interviews_Dulany.xlsx", sheet=3)
 Q3SresSel<- select(Q3Sres, Student_Code, quote)
 
-remove_words <-data.frame("word"= c("challenge", "challenging", "lot", "um", "it's","it", "uh","uhh", "ive", "that's"))
+remove_words <-data.frame("word"= c("challenge", "challenging", "lot", "um", "it's","it", "uh","uhh", "ive", "that's", "learned"))
 
 Q3Srestidy<-unnest_tokens(Q3SresSel, word, quote)
 

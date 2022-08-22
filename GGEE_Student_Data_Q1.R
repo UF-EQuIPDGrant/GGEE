@@ -48,14 +48,6 @@ summary_bing2 <- sentiment_bing %>%
   mutate(lexicon = "bing") %>%
   relocate(lexicon)
 
-summary_afinn %>%
-  ggplot(aes(x="", y=n, fill=value)) +
-  geom_bar(width = .6, stat = "identity") +
-  labs(title = "Sentiment Values of Teacher Interviews",
-       subtitle = "") +
-  coord_polar(theta = "y") +
-  theme_void()
-
 summary_afinn2 <- sentiment_afinn %>% 
   group_by(Student_Code) %>% 
   filter(value != 0) %>%
@@ -136,3 +128,4 @@ summary_afinn %>%
        subtitle = "Describe your experiences in completing the camp activities",
        x = "Sentiment Value", 
        y = "Number of Words")
+
