@@ -136,16 +136,19 @@ The survey needs to collect the following student and parent information:
 
 *	Student Full Name
 *	Student School Email
-*	Parent Full Name
-*	Parent Email
-*	Parent Phone Number
-*	Home Address
+* Student Birthday
+* Student Home Address
+*	Parent/Guardian Full Name
+*	Parent/Guardian Email
+*	Parent/Guardian Phone Number
+*	Parent/Guardian Home Address
 *	Select Summer program Location and Dates (if multiple)
 *	Designated Pick-Up People
     +	Contact Information (Phone Number)
     +	Relation to Student
 *	Emergency Contact Information
-    +	Name, Relation, Phone Number
+    +	Name, Phone Number, Email, Address, Relation to Student
+* Grade Level
 *	Allergies – Food or Environmental
 
 ## Program Leaders
