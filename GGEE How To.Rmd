@@ -59,7 +59,7 @@ Karen Hart**
 
 ## Compliance
 <!-- Compliance Edits - work with your YC coordinator, camp insurance, etc.; Waivers - release for UF - liability and photos *Update Waiver Document, Informed consent - Parents for research, Assent Students consent, *Add Behavior Contract, *Parent Pick Up Authorization-->
-<!-- Make into subsections - Compliance Students, Compliance University Level -->
+<!-- Make into subsections - Compliance Students, Compliance University Level, compliance varies by district and suggest checking with schools and distrcits. Check with schools for volunteer portals and volunteer procedures -->
 -   Parents must sign a permission slip or waiver to acknowledge their
     student's participation in the program. We recommend that this
     permission form gets sent via email with the research consent form
@@ -91,6 +91,8 @@ Karen Hart**
     -   Blue State Vendor Badge (if outside home school)
 
 ## Assessment
+
+<!--Assessment Comments -   -->
 
 ### IRB - Assessment Plan
 
