@@ -21,13 +21,13 @@ knitr::opts_chunk$set(echo = TRUE)
 library(knitr)
 ```
 <!-- new image - make GGEE no date image -->
-![](/Users/kristadulany/Documents/GitHub/GGEE/IMG_0423.PNG){width="50%"}
+![](/Users/kristachisholm/Documents/GitHub/GGEE/IMG_0423.PNG){width="50%"}
 
-![](/Users/kristadulany/Documents/GitHub/GGEE/EQuIPD%20logo_horizontal.png){width="50%"}
+![](/Users/kristachisholm/Documents/GitHub/GGEE/EQuIPD%20logo_horizontal.png){width="50%"}
 
 **Designed by:**
 
-[**The EQuIPD Grant**](https://equipd.mse.ufl.edu/){target="_blank"}
+[**The EQuIPD Grant**](https://equipd.mse.ufl.edu/)
 **at The University of Florida**
 
 **Dr. Nancy Ruzycki, Dr. Krista Dulany, Dr. Lorelie Imperial**
@@ -120,7 +120,7 @@ $$
 Grade/enrollment = a + m_1 (URM) + m_2 (gender) + m_3 (ethnicity) + m_4 (program attendance) + m_5 (program motivation)
 $$
 
-![](/Users/kristadulany/Documents/GitHub/GGEE/screenshots/Picture1.png)
+![](/Users/kristachisholm/Documents/GitHub/GGEE/screenshots/Picture1.png)
 
 ### IRB Requirements
 
@@ -423,19 +423,19 @@ moment to load*
 [**4-Day Program
 Guide**](https://docs.google.com/document/d/1jYAA5klCv6t5kgX0rWaLUhFAMM7GCiTi/edit?usp=sharing&ouid=101837644018748928886&rtpof=true&sd=true){target="_blank"}
 
-![](/Users/kristadulany/Documents/GitHub/GGEE/overview/4%20day.jpg){width="500px"}
+![](/Users/kristachisholm/Documents/GitHub/GGEE/overview/4%20day.jpg){width="500px"}
 
 [**5-Day Program
 Guide**](https://docs.google.com/document/d/12amkkHujozFgsCKLpXtIb6bFGUgHdUDq/edit?usp=sharing&ouid=101837644018748928886&rtpof=true&sd=true){target="_blank"}
 
-![](/Users/kristadulany/Documents/GitHub/GGEE/overview/5%20day.jpg){width="500px"}
+![](/Users/kristachisholm/Documents/GitHub/GGEE/overview/5%20day.jpg){width="500px"}
 
 ## Half Day Camps - 4 Hours
 
 [**8-Day Program
 Guide**](https://docs.google.com/document/d/1xG_1E1HToyae9jNvOGlpWYFquy_16UiW/edit?usp=sharing&ouid=101837644018748928886&rtpof=true&sd=true){target="_blank"}
 
-![](/Users/kristadulany/Documents/GitHub/GGEE/overview/8%20day.jpg){width="500px"}
+![](/Users/kristachisholm/Documents/GitHub/GGEE/overview/8%20day.jpg){width="500px"}
 
 ## Teacher and Student Activity Frameworks
 
@@ -470,15 +470,15 @@ Challenge](https://docs.google.com/presentation/d/1TTCc2MwwXFT_jMkpBd-hDmQYDhvhP
 
 ## Appendix A: Parent Student Waiver
 
-![](/Users/kristadulany/Documents/GitHub/GGEE/screenshots/Waiver%201.png){width="500px"}
-![](/Users/kristadulany/Documents/GitHub/GGEE/screenshots/Waiver%202.png){width="500px"}
-![](/Users/kristadulany/Documents/GitHub/GGEE/screenshots/Waiver%203.png){width="500px"}
+![](/Users/kristachisholm/Documents/GitHub/GGEE/screenshots/Waiver%201.png){width="500px"}
+![](/Users/kristachisholm/Documents/GitHub/GGEE/screenshots/Waiver%202.png){width="500px"}
+![](/Users/kristachisholm/Documents/GitHub/GGEE/screenshots/Waiver%203.png){width="500px"}
 
 ## Appendix B: Informed Consent
 
-![](/Users/kristadulany/Documents/GitHub/GGEE/screenshots/Informed%20Consent%201.png){width="500px"}
-![](/Users/kristadulany/Documents/GitHub/GGEE/screenshots/Informed%20Consent%202.png){width="500px"}
+![](/Users/kristachisholm/Documents/GitHub/GGEE/screenshots/Informed%20Consent%201.png){width="500px"}
+![](/Users/kristachisholm/Documents/GitHub/GGEE/screenshots/Informed%20Consent%202.png){width="500px"}
 
 ## Appendix C: Student Assent Form
 
-![](/Users/kristadulany/Documents/GitHub/GGEE/screenshots/Assent.png){width="500px"}
+![](/Users/kristachisholm/Documents/GitHub/GGEE/screenshots/Assent.png){width="500px"}
