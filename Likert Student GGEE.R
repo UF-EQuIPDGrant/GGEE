@@ -19,7 +19,7 @@ graph1<-likert(Item~., end_of_day_surveys, ReferenceZero=3, ylab = "Statement", 
 graph1
 
 ##png("/Users/kristadulany/Documents/GitHub/GGEE/Data/Graph1.png",
-    height=720, width=1080)
+   # height=720, width=1080)
 ##graph1
 ##dev.off()
 
